@@ -1,4 +1,4 @@
-# Programming Project 3, Phase 1, Problem 2
+# Project 3, Phase 1, Problem 2
 *Carlos F. Meneses • 03/25/2015 • Bergen Community College • Advanced Java Programming*
 
 ## Problem 2
